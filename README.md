@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sluethyfox
 - 👀 I’m interested in ... ethical hacking, python.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... hello@sluethyfox.com
+- 📫 How to reach me ... sluethyfox.com
 
 <!---
 sluethyfox/sluethyfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
